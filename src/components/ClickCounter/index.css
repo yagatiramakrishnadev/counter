@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.paragraph {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.button {
+  color: white;
+  background-color: #007bff;
+  font-family: 'Roboto';
+  height: 30px;
+  width: 80px;
+  border-width: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.span {
+  color: #c20a72;
+}
